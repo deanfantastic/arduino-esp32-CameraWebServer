@@ -11,8 +11,8 @@
 //#define CAMERA_MODEL_M5STACK_PSRAM
 #define CAMERA_MODEL_AI_THINKER
 
-const char* ssid = "REPLACE_WITH_YOUR_SSID";
-const char* password = "REPLACE_WITH_YOUR_PASSWORD";
+const char* ssid = "OPTUS_453806";
+const char* password = "matzafaurd36637";
 
 
 #if defined(CAMERA_MODEL_WROVER_KIT)
