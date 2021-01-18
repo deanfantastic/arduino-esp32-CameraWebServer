@@ -11,8 +11,12 @@
 //#define CAMERA_MODEL_M5STACK_PSRAM
 #define CAMERA_MODEL_AI_THINKER
 
-const char* ssid = "OPTUS_453806";
-const char* password = "matzafaurd36637";
+// Home
+const char* ssid = "The_Palace_of_Justice";
+const char* password = "carbon05";
+// Work
+//const char* ssid = "OPTUS_453806";
+//const char* password = "matzafaurd36637";
 
 
 #if defined(CAMERA_MODEL_WROVER_KIT)
